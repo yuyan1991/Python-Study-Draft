@@ -1,4 +1,4 @@
-# -*- config: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 def convert(L):
     return [s.lower() for s in L if isinstance(s, str) == True]

@@ -1,4 +1,4 @@
-# -*- config: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 def product(*nums):
     if len(nums)==0:

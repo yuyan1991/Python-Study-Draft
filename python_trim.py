@@ -1,4 +1,4 @@
-# -*- config: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 def trim(s):
     if s[0:1]==' ':

@@ -1,4 +1,4 @@
-# -*- config: utf-8 -*-
+# -*- coding: utf-8 -*-
 
 number=[125, 1000, 16, 10]
 for n in number:
